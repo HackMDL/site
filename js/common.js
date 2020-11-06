@@ -1,0 +1,1 @@
+$(".site-navigation position-relative text-right a, .top").mPageScroll2id();
